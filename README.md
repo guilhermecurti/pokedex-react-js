@@ -17,13 +17,6 @@
   <a href="#getting-started">Getting Started</a> 
 </p>
 
-<p align="center">
-    <img style="border-radius: 5px" src="src/assets/img/demo.gif" alt="Pokedex React js">
-</p>
-
-# Demo
-
-[Pokedex ReactJs - Live ◀️](https://pokedex-up.netlify.app/)
 
 ## Libs
 
@@ -43,13 +36,12 @@ Foram usadas as seguintes libs na aplicacao:
 - [Details (/details)](https://pokedex-up.netlify.app/details/bulbasaur) - Shows details (**_height, weight, abilities, stats, evolution etc..._**) about a specific pokemon.
 
 
-
 # Getting Started
 
 - Clone o repositorio
 
   ```
-  git clone https://github.com/matheusmhq/pokedex-react-js.git
+  git clone https://github.com/guilhermecurti/pokedex-react-js.git
 
   cd pokedex-react-js
   ```
